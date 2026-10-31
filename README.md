@@ -101,8 +101,6 @@ cd Work-ledger
 
 ## 项目文档
 
-- [完整开发记录与版本历史](docs/README-FULL.md)
-- [v1.0.0 发布检查点](docs/aegis/work/2026-10-31-v1.0.20/20-checkpoint.md)
 - [MIT 许可证](LICENSE)
 
 ## 联系
