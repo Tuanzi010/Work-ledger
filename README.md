@@ -112,7 +112,7 @@ cd Work-ledger
 </p>
 
 <p align="center">
-  有问题、建议或想跟进后续版本，欢迎来 Telegram 找 <b>DimensionID</b>
+  有问题、建议或想跟进后续版本，欢迎来 Telegram 找 <b>CiYuanOvO</b>
 </p>
 
 ## 许可证
