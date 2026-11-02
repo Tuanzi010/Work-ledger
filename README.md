@@ -107,11 +107,6 @@ cd Work-ledger
 
 <p align="center">
   <a href="https://t.me/DimensionID"><img src="https://img.shields.io/badge/Telegram-DimensionID-26A5E4?logo=telegram&logoColor=white" alt="Telegram" /></a>
-</p>
-
-<p align="center">
-  有问题、建议或想跟进后续版本，欢迎来 Telegram 找 <b>CiYuanOvO</b>
-</p>
 
 ## 许可证
 
